@@ -1,3 +1,7 @@
+# To utilize these codes, you can refer to our work by reading the article provided below.
+
+https://www.researchgate.net/publication/379154015_Predicting_Customer_Satisfaction_with_Hybrid_Basic_Filter-Based_Feature_Selection_Method
+
 # Predicting Customer Satisfaction with Hybrid Basic Filter-Based Feature Selection Method
 * **Remove Constant Features**
   1. Remove Constant Features Using Variance Threshold
